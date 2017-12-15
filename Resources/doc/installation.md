@@ -111,6 +111,10 @@ php bin/console ongr:es:index:create
 php bin/console ongr:es:index:create --manager=live
 ```
 
+### Change User Role
+
+Activate the permission to edit articles in the user role.
+
 ## Possible bundle configurations:
 
 ```yml
